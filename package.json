@@ -87,7 +87,7 @@
     "react-dom": "^18.2.0",
     "react-stately": "^3.31.1",
     "server-only": "^0.0.1",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "winston": "^3.13.0"
   },
   "devDependencies": {
